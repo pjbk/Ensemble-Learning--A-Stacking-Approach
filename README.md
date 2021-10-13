@@ -16,10 +16,10 @@ The dataset can be found on UCI Machine Learning Repository: https://archive.ics
 
 Here, we choose four tree-based algorithms for this notebook.
 
-i. RandomForestClassifier
-ii. DecisionTreeClassifier
-iii. ExtraTreesClassifier and
-iv. XGBoost Classifier
+* RandomForestClassifier
+* DecisionTreeClassifier
+* ExtraTreesClassifier and
+* XGBoost Classifier
 
 And, implement a Stacking Ensemble Model to probe if it can surpass the individual models accuracy.
 
